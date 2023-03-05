@@ -3,5 +3,5 @@
 > Site em construção, pode ser usada como um portifolio pessoal de apresentação de desenvolvedor.
 
 ```
-Altere seus dados no index.html
+**Altere seus dados no index.html**
 ```
